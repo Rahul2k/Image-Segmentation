@@ -26,3 +26,6 @@ Here, KMeans++ was used for segmetation, which is provided by SKLearn Library.
 <img src="https://github.com/Rahul2k/Image-Segmentation/blob/master/Img_Data/2020-03-17%20(1).png">
 
 
+
+Go on then, clone it/ fork it and create your own segmented image (My github profile pic is this specific image) :p
+
